@@ -1,0 +1,14 @@
+numpy>=1.18,<1.22  # numpy
+numba  # speed up numpy
+pandas  # dataframes
+
+h5py  # HDF5 handling
+dv  # aedat4 file format
+
+matplotlib  # plotting
+
+scikit-image  # image processing (canny edge detection hugh transform)
+opencv-python  # image processing (all the rest)
+
+smopy  # loading openstreetmaps maps
+tqdm  # progress bar

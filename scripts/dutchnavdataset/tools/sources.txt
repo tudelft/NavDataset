@@ -1,0 +1,13 @@
+read_events.py, rosbag_to_h5.py and event_packagers.py retrieved from https://github.com/TimoStoff/events_contrast_maximization
+
+full citation:
+T. Stoffregen and L. Kleeman, Event Cameras, Contrast Maximization and Reward Functions: An Analysis, The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2019.
+
+bibtex:
+@InProceedings{Stoffregen19cvpr,
+author = {Stoffregen, Timo and Kleeman, Lindsay},
+title = {Event Cameras, Contrast Maximization and Reward Functions: An Analysis},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}

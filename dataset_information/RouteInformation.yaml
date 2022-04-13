@@ -1,0 +1,49 @@
+# the start and stop times are estimates based on the video
+# GoPro offsets are in seconds
+
+dataset_directories:
+  # contains raw .bag files and .MP4 video
+  raw_directory: "InsectNavDataset/"
+  # contains synchronized events, imu, frames, and GNSS data in GDF5 containers + gps.csv
+  processed_directory: "InsectNavDataset_Processed/"
+
+route_list: [route_1a, route_1b, route_2a, route_2b, route_3a, route_3b, route_4a, route_4b, route_5a, route_5b, route_6a, route_6b]
+
+# open DatasetMap.kmz for a visual representation of the routes
+routes:
+  route_1a:
+    directory: 2021-04-08_132155
+    gopro_offset: 0.
+  route_1b:
+    directory: 2021-04-08_133412
+    gopro_offset: 0.
+  route_2a:
+    directory: 2021-04-09_115057
+    gopro_offset: -1.5
+  route_2b:
+    directory: 2021-04-09_120103
+    gopro_offset: 0.
+  route_3a:
+    directory: 2021-04-08_171647
+    gopro_offset: -7.
+  route_3b:
+    directory: 2021-04-08_172710
+    gopro_offset: 0.
+  route_4a:
+    directory: 2021-04-09_133117
+    gopro_offset: -4.
+  route_4b:
+    directory: 2021-04-09_133741
+    gopro_offset: -2.
+  route_5a:
+    directory: 2021-04-09_134317
+    gopro_offset: -2.
+  route_5b:
+    directory: 2021-04-09_134836
+    gopro_offset: -15.
+  route_6a:
+    directory: 2021-04-09_135545
+    gopro_offset: -3.
+  route_6b:
+    directory: 2021-04-09_140242
+    gopro_offset: -2.5
