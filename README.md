@@ -6,11 +6,11 @@ Jan Verheyen, Julien Dupeyroux, and Guido de Croon. <br/>*Micro Air Vehicle Lab,
 
 ---
 
-The full dataset is available at: <br/>https://data.4tu.nl/articles/dataset/
+The full dataset is available at: <br/>https://data.4tu.nl/articles/dataset/. _The dataset will be made available upon publication._
 
 ---
 
-Link to the supporting data paper: <br/>https://link/to/the/datapaper/on/arXiv
+Link to the supporting data paper: <br/>https://link/to/the/datapaper. _The paper will be made available upon publication._
 
 ---
 
