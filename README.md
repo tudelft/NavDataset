@@ -74,11 +74,10 @@ The `scripts/dutchnavdataset` provides a Python 3 package for handling the datas
 
 
 
-Notes:
+Side references for hardware / software integration:
 
 https://www.epncb.oma.be/_organisation/WG/previous/euref_IP/index.php<br>
 https://github.com/nunojpg/ntripserver<br>
 https://github.com/uzh-rpg/rpg_dvs_ros/tree/master/dvs_msgs/msg<br>
-https://docs.ros.org/en/kinetic/api/ublox_msgs/html/msg/NavPVT.html<br>
 https://wiki.ros.org/Bags<br>
 https://www.hdfgroup.org/solutions/hdf5<br>
